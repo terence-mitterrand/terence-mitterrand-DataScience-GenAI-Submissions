@@ -1,4 +1,5 @@
 # Data Science & Generative AI Submissions
+
 **This repository contains all exercises assigned, data analysis and practice notebooks developed for the Data Science & Generative AI module.**  
 
 [Excercise 1: Data and Feature Engineering](./Exercise_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb)  
